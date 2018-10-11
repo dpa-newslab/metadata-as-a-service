@@ -14,17 +14,18 @@ organizations, search engines and social networks. It is part of the
 ## Background
 
 News agencies face a huge legacy problem. Although better technologies
-have been available for years, most of the times their stories are
-stored and delivered in a capability-poor format conceived before in
-the last century, hostile to hyperlinks, only to be processed by
+have been available for years, most of the times news agencies' stories are
+stored and delivered in a capability-poor format conceived when teletype 
+machines were the means of getting stories around the gloube in
+the last century. A format hostile to hyperlinks, that will then be processed by
 poorly standardized, slow-release-cycle legacy systems. A human
-copy-and-pasting plain text is often part of the workflow, making the
+copy-and-pasting plain text is often part of this workflow, making the
 automatic application of updates and corrections impossible. (More
 generally, editorial content management systems tend to have the same
 limitations, regardless of the use of news agency material)
 
 This whole ecosystem is not build to easily accomodate new metadata
-needed for transparency.
+needed for the kind of transparency that can help make news more trustworthy.
 
 
 ## A new channel for Metadata
