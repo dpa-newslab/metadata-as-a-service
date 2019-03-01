@@ -54,6 +54,12 @@ address of our service endpoint.
 
 `https://metadata.dpa-prototype.de/trustproject/urn:newsml:dpa.com:20090101:180923-99-82825`
 
+## How this is implemented on the backend side
+
+We're currently using AWS. As a first "good enough" implementation, an AWS lambda function is regularly polling 
+the most recently updated dpa items, it writes the metadata JSON to a S3 bucket that is exposed to clients 
+via a cloudfront distribution. 
+
 
 ## How this could be implemented in the browser 
 
