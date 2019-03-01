@@ -10,6 +10,7 @@ of information _about_ news stories - the metadata - to more readers, media
 organizations, search engines and social networks. It is part of the
 [Tust Project](https://thetrustproject.org/) 
 
+![Sidechannel Information Flow](trust-sidechannel.png)
 
 ## Background
 
